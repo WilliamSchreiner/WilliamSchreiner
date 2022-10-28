@@ -6,7 +6,15 @@
 
   Atualmente durante meu aprendizado dentro do curso, pude trabalhar encima das linguagens de:
   
-   - React; - JavaScript; - CSS; - HTML; - TypeScript; - NestJS;
+   - React; 
+   - JavaScript; 
+   - CSS; 
+   - HTML; 
+   - TypeScript; 
+   - NestJS;
   
   Tambem já trabalhei com: 
-   - DBeaver; - Docker; - Xampp; - MySQL;
+   - DBeaver; 
+   - Docker; 
+   - Xampp; 
+   - MySQL;
