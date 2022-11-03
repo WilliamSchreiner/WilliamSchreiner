@@ -9,7 +9,7 @@
    - React; 
    - JavaScript; 
    - CSS; 
-   - "HTML"; 
+   - HTML; 
    - TypeScript; 
    - NestJS;
   
