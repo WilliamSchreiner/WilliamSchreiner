@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou estudando no ensino médio e ao mesmo tempo cursando um curso tecnico em Ti.
 - 📫 Como podem se comunicar comigo, Instagram: william.gab.sch ; Linkedin: William Schreiner; 
 
-  Atualmente durante meu aprendizado dentro do curso, pude trabalhar encima das linguagens de:
+  Atualmente durante meu aprendizado dentro do curso, pude trabalhar encima:
   
    - React; 
    - JavaScript; 
