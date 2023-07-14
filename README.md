@@ -7,3 +7,6 @@
 <a href="https://www.facebook.com/William Gabriel Schreiner" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/William Gabriel Schreiner">
 </a>
+<a href="https://www.linkedin.com/William Gabriel Schreiner" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/William Gabriel Schreiner" /> 
+</a>
