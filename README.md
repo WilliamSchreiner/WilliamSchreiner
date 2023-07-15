@@ -10,3 +10,5 @@
 <a href="https://www.linkedin.com/William Gabriel Schreiner" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/william-schreiner-3423b1249" /> 
 </a>
+
+
