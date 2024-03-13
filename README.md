@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </a>
 
-### Databases and SGBDs
+### Databases e SGBDs
 </a>
 <a href="https://www.mysql.com/" alt="MySQL" target="_blank">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
