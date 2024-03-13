@@ -1,7 +1,8 @@
 # 👋 Bom Dia! Bem vindo ao meu github.
 ### Meu nome é William G. Schreiner e meu nickname é "WilliamSchreiner"!
+### Me desenvolvo a cada dia, para no futuro me transformar em um desenvolvedor.
 
-### Skills
+###  Skills
 
 <a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="CSS" target="_blank">
