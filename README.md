@@ -92,7 +92,5 @@ Currently focused on Java, Spring Boot and modern backend development while main
 ---
 
 <div align="center">
-
 ### *"Still building. Still learning."*
-
 </div>
